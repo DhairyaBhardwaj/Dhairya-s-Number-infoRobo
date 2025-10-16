@@ -26,7 +26,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://x4ngo03:zWQmajZZPpLfaJs4@
 DB_NAME = os.environ.get("DATABASE_NAME", "des1br")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "0"))  # 0 means no expiry
-BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/sayxsee_support")
+BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/Dhairya_bh")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://i.imghippo.com/files/JDB7578JRA.jpg")
@@ -39,7 +39,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://i.imghippo.com/files/ltNH2419OV
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴛʜᴇ ᴏғғɪᴄɪᴀʟ ʜᴇʟᴘ ᴅᴏᴄᴜᴍᴇɴᴛ ғᴏʀ ᴛʜᴇ ɪɴᴅɪᴀɴ ᴏsɪɴᴛ ʟᴏᴏᴋᴜᴘ ʙᴏᴛ, ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href='http://sayxsee.xyz'>sᴀʏx𝐬ᴇᴇ.xʏᴢ</a>.\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : ʀᴇsᴛᴀʀᴛs ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ ᴄʜᴇᴄᴋs ғsᴜʙ\n├/myplan : ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ sᴛᴀᴛᴜs\n├/credits : sʜᴏᴡs ʏᴏᴜʀ ʀᴇᴍᴀɪɴɪɴɢ ғʀᴇᴇ ᴛʀɪᴇs\n├/referral : ɢᴇᴛ ʏᴏᴜʀ ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ\n├/about : ɢᴇᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ɪɴғᴏ\n└/help : ʏᴏᴜ ᴀʀᴇ ʜᴇʀᴇ\n\nsɪᴍᴘʟʏ sᴇɴᴅ ᴀɴ ɪɴᴅɪᴀɴ ɴᴜᴍʙᴇʀ (ᴇ.ɢ., +91...) ᴛᴏ ʙᴇɢɪɴ ʏᴏᴜʀ sᴇᴀʀᴄʜ.\n\nғᴏʀ sᴜᴘᴘᴏʀᴛ: ᴄᴏɴᴛᴀᴄᴛ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ʙᴏᴛ <a href='https://t.me/Connect_SayXSee_Bot'>@Connect_SayXSee_Bot</a></blockquote></b>"
 
 # --- ABOUT MESSAGE (U+200B cleaned) ---
-ABOUT_TXT = "<b><blockquote>◈ ᴅᴇᴠᴇʟᴏᴘᴇᴅ & ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='http://sayxsee.xyz'>sᴀʏx𝐬ᴇᴇ.xʏᴢ</a>\n◈ ᴏғғɪᴄɪᴀʟ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/+10TQd-BMf3I0MjM1'>sᴀʏx𝐬ᴇᴇ ᴄʜᴀɴɴᴇʟ</a>\n◈ ᴏғғɪᴄɪᴀʟ sᴜᴘᴘᴏʀᴛ ʙᴏᴛ: <a href='https://t.me/Connect_SayXSee_Bot'>@Connect_SayXSee_Bot</a>\n◈ sᴜᴘᴘᴏʀᴛ ᴘᴀɢᴇ: <a href='http://sayxsee.xyz/contact'>sᴀʏx𝐬ᴇᴇ.xʏᴢ/ᴄᴏɴᴛᴀᴄᴛ</a>\n\nᴛʜɪs ʙᴏᴛ ᴘʀᴏᴠɪᴅᴇs ᴏsɪɴᴛ ᴅᴀᴛᴀ ʟᴏᴏᴋᴜᴘs ʙᴀsᴇᴅ ᴏɴ ᴀᴄᴄᴇssᴇᴅ ᴅᴀᴛᴀsᴇᴛs.</blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴅᴇᴠᴇʟᴏᴘᴇᴅ & ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/Dhairya_bh'>⏤͟͞𝘿𝙝𝙖𝙞𝙧𝙮𝙖 𝘽𝙝𝙖𝙧𝙙𝙬𝙖𝙟</a>\n◈ ᴏғғɪᴄɪᴀʟ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/+TgMfrtCjbD4xZTU1'>⏤͟͞𝘿𝙝𝙖𝙞𝙧𝙮𝙖's ᴄʜᴀɴɴᴇʟ</a>\n◈ ᴏғғɪᴄɪᴀʟ sᴜᴘᴘᴏʀᴛ ʙᴏᴛ: <a href='https://t.me/Dhairya_contact_bot'>@Dhairya_contact_bot</a>\n◈ sᴜᴘᴘᴏʀᴛ ᴘᴀɢᴇ: <a href='https://t.me/Dhairya_bh'>Dhairya/ᴄᴏɴᴛᴀᴄᴛ</a>\n\nᴛʜɪs ʙᴏᴛ ᴘʀᴏᴠɪᴅᴇs ᴏsɪɴᴛ ᴅᴀᴛᴀ ʟᴏᴏᴋᴜᴘs ʙᴀsᴇᴅ ᴏɴ ᴀᴄᴄᴇssᴇᴅ ᴅᴀᴛᴀsᴇᴛs.</blockquote></b>"
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {mention}\n\n<blockquote> ɪ ᴀᴍ ᴛʜᴇ ɪɴᴅɪᴀɴ ᴏsɪɴᴛ ʟᴏᴏᴋᴜᴘ ʙᴏᴛ. ɪ ᴄᴀɴ sᴇᴀʀᴄʜ ᴅᴇᴛᴀɪʟs ʟɪᴋᴇ ғᴜʟʟ ɴᴀᴍᴇ, ғᴀᴛʜᴇʀ's ɴᴀᴍᴇ, ᴀɴᴅ ᴀᴅᴅʀᴇssᴇs ᴀɢᴀɪɴsᴛ ᴀɴ ɪɴᴅɪᴀɴ ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ. ᴜsᴇ ʏᴏᴜʀ <b>ғʀᴇᴇ ᴛʀɪᴇs</b> ᴏʀ ɢᴏ <b>ᴘʀᴇᴍɪᴜᴍ</b> ғᴏʀ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss. sɪᴍᴘʟʏ sᴇɴᴅ ᴀ ɴᴜᴍʙᴇʀ (ᴇ.ɢ., <code>+919876543210</code>) ᴛᴏ sᴛᴀʀᴛ sᴇᴀʀᴄʜɪɴɢ!</blockquote></b>")
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention}\n\n<b><blockquote>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʀᴇʟᴏᴀᴅ button ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b></blockquote>")
