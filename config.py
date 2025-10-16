@@ -15,7 +15,7 @@ API_HASH = os.environ.get("API_HASH", "b2f2a28941783eaadacca2f917ffec0a") #Your 
 #--------------------------------------------
 
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", False)
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002214793341")) #Your db channel Id
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003150849494")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "Dhairya_bh") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "5968801459")) # Owner id
 ADMINS = [6937607934, 6937607935, 5848573966]
@@ -23,7 +23,7 @@ ADMINS = [6937607934, 6937607935, 5848573966]
 PORT = os.environ.get("PORT", "8080")
 #--------------------------------------------
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://x4ngo03:zWQmajZZPpLfaJs4@cluster0.g3eapwn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DATABASE_NAME", "des1bros")
+DB_NAME = os.environ.get("DATABASE_NAME", "des1br")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "0"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/sayxsee_support")
