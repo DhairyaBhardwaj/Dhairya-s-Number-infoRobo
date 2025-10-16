@@ -8,16 +8,16 @@ from logging.handlers import RotatingFileHandler
 #nothin on Tg
 #--------------------------------------------
 #Bot token @Botfather
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "des1bros_bot")
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8043213775:AAGM6RHk2CfjBHTkbQD6KM91Z3RIWK8qT60")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "Number_toinfo_bot")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8496102678:AAG3BJ7IN1vw2E-HWnfmP-qWS4p2Do05ya4")
 APP_ID = int(os.environ.get("APP_ID", "29463066")) #Your API ID from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "b2f2a28941783eaadacca2f917ffec0a") #Your API Hash from my.telegram.org
 #--------------------------------------------
 
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", False)
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002214793341")) #Your db channel Id
-OWNER = os.environ.get("OWNER", "buweh") # Owner username without @
-OWNER_ID = int(os.environ.get("OWNER_ID", "6937607934")) # Owner id
+OWNER = os.environ.get("OWNER", "Dhairya_bh") # Owner username without @
+OWNER_ID = int(os.environ.get("OWNER_ID", "5968801459")) # Owner id
 ADMINS = [6937607934, 6937607935, 5848573966]
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8080")
