@@ -6,8 +6,8 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
 from bot import Bot 
 
 # --- CONFIGURATION ---
-ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "Connect_SayXSee_Bot")
-FALLBACK_SUPPORT_BOT = os.environ.get("SUPPORT_BOT_LINK", "https://t.me/Connect_SayXSee_Bot")
+ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "Dhairya_bh")
+FALLBACK_SUPPORT_BOT = os.environ.get("SUPPORT_BOT_LINK", "https://t.me/Dhairya_contact_bot")
 # ---
 
 # Define the plans: Price (in Rupees), Credits, Display Name
