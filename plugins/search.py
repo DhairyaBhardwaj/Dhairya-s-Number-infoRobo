@@ -5,8 +5,8 @@ import os
 
 # --- Configuration for Search API ---
 # Replace these with your actual details
-MAIN_API_URL = "https://leakosintapi.com/"
-MAIN_API_TOKEN = "8439294732:mCR9Us58" 
+MAIN_API_URL = "https://num.zvx.workers.dev"
+MAIN_API_TOKEN = "XclusoR" 
 
 logging.basicConfig(level=logging.INFO)
 
