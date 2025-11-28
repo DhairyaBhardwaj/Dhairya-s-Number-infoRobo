@@ -6,7 +6,7 @@ import os
 # --- Configuration for Search API ---
 # Replace these with your actual details
 MAIN_API_URL = "https://num.zvx.workers.dev"
-MAIN_API_TOKEN = "XclusoR" 
+MAIN_API_TOKEN = "XclusoR&mobile=" 
 
 logging.basicConfig(level=logging.INFO)
 
