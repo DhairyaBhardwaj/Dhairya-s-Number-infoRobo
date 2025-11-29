@@ -17,7 +17,7 @@ API_HASH = os.environ.get("API_HASH", "e4043281fb5197526a8ab5586dd6506d") #Your 
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", False)
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003150849494")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "Dhairya_bh") # Owner username without @
-OWNER_ID = int(os.environ.get("OWNER_ID", "5968801459")) # Owner id
+OWNER_ID = int(os.environ.get("OWNER_ID", "596880159")) # Owner id
 ADMINS = [6937607934, 6937607935, 5848573966, 5968801459]
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8080")
