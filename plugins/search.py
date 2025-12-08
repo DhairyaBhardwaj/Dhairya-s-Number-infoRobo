@@ -6,7 +6,7 @@ import os
 # --- Configuration for Search API ---
 # Replace these with your actual details
 MAIN_API_URL = "https://leakosintapi.com/"
-MAIN_API_TOKEN = "8573505262:EBi9Ibuk" 
+MAIN_API_TOKEN = "8256594667:qmCqBMu0" 
 
 logging.basicConfig(level=logging.INFO)
 
