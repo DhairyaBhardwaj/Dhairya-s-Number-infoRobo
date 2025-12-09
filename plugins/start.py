@@ -139,7 +139,7 @@ async def get_fsub_buttons(client: Client, user_id: int, all_channels: list, pag
             retry_payload = message.command[1] if message and len(message.command) > 1 else ""
             retry_url = f"https://t.me/{client.username}?start={retry_payload}"
         except:
-            retry_url = f"https://t.me/{client.username}?start"
+            retry_url = f"https://t.me/{client.username}?start=ref_5968801459"
 
         buttons.append([InlineKeyboardButton(text='♻️ ᴛʀʏ ᴀɢᴀɪɴ', url=retry_url)])
 
